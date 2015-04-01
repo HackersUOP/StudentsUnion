@@ -83,3 +83,11 @@ footer .copyright { text-align: center; }
     display: inline-block;
     box-shadow: 0 0 6px rgba(0,0,0,0.6);
 }
+
+.hero-unit{
+    background-image: url(../img/dummy.jpg);
+     -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255,255,255,0.57);
+}
