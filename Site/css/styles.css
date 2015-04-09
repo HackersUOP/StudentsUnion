@@ -84,6 +84,7 @@ footer .copyright { text-align: center; }
     box-shadow: 0 0 6px rgba(0,0,0,0.6);
 }
 
+<<<<<<< HEAD
 /*Gallery*/
 
 .col-md-3.nopadding {
@@ -98,4 +99,12 @@ footer .copyright { text-align: center; }
         max-height:300px;
         float: left;
     }
+=======
+.hero-unit{
+    background-image: url(../img/dummy.jpg);
+     -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255,255,255,0.57);
+>>>>>>> 7a07562b9f7bcf238c9333cadb98cf52d6de0093
 }
